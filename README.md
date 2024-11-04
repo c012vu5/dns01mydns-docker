@@ -1,5 +1,7 @@
 # dns01mydns-docker
-Create certfile with dns01 challenge on mydns
+[![License](https://img.shields.io/github/license/c012vu5/dns01mydns-docker.svg?style=flat-square)](./LICENSE)
+
+Create certfile with dns01 challenge on mydns.
 
 ## .env
 Run `init.sh` to create a `.env` file.

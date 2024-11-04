@@ -13,7 +13,6 @@ init () {
         -e s/yourdomain/"${DOMAIN}"/
 }
 
-
 certificate () {
     while :
     do
