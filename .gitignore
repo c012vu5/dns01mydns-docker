@@ -1,0 +1,5 @@
+# General ignored files
+*~
+.env
+./Vol/*
+!./Vol/.gitkeep

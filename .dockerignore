@@ -1,0 +1,6 @@
+# General ignored files
+*~
+.env
+.env.template
+LICENSE
+README.md
